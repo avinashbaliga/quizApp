@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz Time!!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="playButton">PLAY</string>
+    <string name="titleImageContentDesc">Quiz Time</string>
+    <string name="submitButton">SUBMIT</string>
+    <string name="youWon">CONGRATULATIONS!!! YOU WON!!!</string>
+    <string name="youLost">YOU LOST. BETTER LUCK NEXT TIME!!!</string>
+    <string name="tryAgain">TRY AGAIN</string>
+    <string name="about">This is a trivia Quiz game.\nChoose one answer and try your luck</string>
+    <string name="aboutMenuOption">About</string>
+    <string name="rulesMenuOption">Rules</string>
+</resources>

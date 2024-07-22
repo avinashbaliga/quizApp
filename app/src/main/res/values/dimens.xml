@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleImageWidth">300dp</dimen>
+    <dimen name="titleImageHeight">300dp</dimen>
+    <dimen name="playButtonWidth">100dp</dimen>
+    <dimen name="playButtonHeight">60dp</dimen>
+    <dimen name="questionMarkWidth">150dp</dimen>
+    <dimen name="questionMarkHeight">150dp</dimen>
+    <dimen name="questionMarginTop">20dp</dimen>
+</resources>
